@@ -43,7 +43,8 @@ class Google:
                     link_check()
             link_check()
         finally:
-            sleep(30)
+            sleep(3600)
+            self.driver.quit()
 
                 
 
