@@ -5,3 +5,4 @@ For this program, simply put the meet link in a Google Docs file and the wheneve
 This program has been written using the Selenium framework. I have used Firefox as my browser of choice. 
 ![Meet Start](https://github.com/rushil1904/Google-Meet-Automation/blob/main/etc/meet.png?raw=true)
 ![Meet](https://github.com/rushil1904/Google-Meet-Automation/blob/main/etc/meet1.png?raw=true)
+Screenshots after the execution of the program. 
