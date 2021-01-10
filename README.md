@@ -9,7 +9,8 @@ Flow:
 2. Loads Google Docs file where you store your meet link.  
 3. If it it detects the link, it will redirect you the Google Meet.  
 4. Asks for permission to join the meet.  
-5. After some time, it will input a message into the chat box to mark your presence in the meeting.  
+5. After some time, it will input a message into the chat box to mark your presence in the meeting.   
+
 ![Stackoverflow login](https://github.com/rushil1904/Google-Meet-Automation/blob/main/etc/stack_login.png?raw=true)  
 ![Meet Link](https://github.com/rushil1904/Google-Meet-Automation/blob/main/etc/meet_link.png?raw=true)  
 ![Meet Start](https://github.com/rushil1904/Google-Meet-Automation/blob/main/etc/meet.png?raw=true)
