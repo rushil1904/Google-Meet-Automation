@@ -10,6 +10,7 @@ Flow:
 3. If it it detects the link, it will redirect you the Google Meet.  
 4. Asks for permission to join the meet.  
 5. After some time, it will input a message into the chat box to mark your presence in the meeting.  
+
 ![Meet Start](https://github.com/rushil1904/Google-Meet-Automation/blob/main/etc/meet.png?raw=true)
 ![Meet](https://github.com/rushil1904/Google-Meet-Automation/blob/main/etc/meet1.png?raw=true)
 Screenshots after the execution of the program. 
