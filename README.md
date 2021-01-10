@@ -3,7 +3,7 @@
 You can configure the program according to your personal needs.
 For this program, simply put the meet link in a Google Docs file and the whenever the program detects a link in the document, it will redirect you to the meet link and join the meeting. It will also mark your presence by writing input in the chat box.  
 You can use the program to attend online classes or meetings on your behalf. 
-This program has been written using the Selenium framework. I have used Firefox as my browser of choice. 
+This program has been written using the Selenium framework. I have used Firefox as my browser of choice.   
 Flow:  
 1. Login to Stackoverflow via Google Account.  
 2. Loads Google Docs file where you store your meet link.  
